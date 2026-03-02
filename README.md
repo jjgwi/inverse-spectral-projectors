@@ -6,9 +6,10 @@ This repository contains a reference implementation of the synthetic benchmark u
 
 ## Contents
 
-- `inverse-spectral-projectors.ipynb` — main notebook (forward model, projection/stencil, inference, and figure generation): available here
+- `inverse_spectral_projectors_v02.ipynb` — main notebook (forward model, projection/stencil, inference, and figure generation): available here
 - `data/geometry_library.npz` — precomputed spectrum library used by the notebook: is generated
 - `geometry_engine.py` — spectrum generation (Sturm–Liouville / tridiagonal eigenproblem): is generated
 
 - `fig_*.pdf` — output figures: are regenerated
+
 
