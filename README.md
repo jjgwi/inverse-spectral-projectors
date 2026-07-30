@@ -1,6 +1,6 @@
 # inverse-spectral-projectors
 
-Companion code for the paper "Projector-Based Separation of Boundary Response and Mass in Short-Range Force EFTs" (arXiv: [XXXX.XXXXX]).
+Companion code for the paper "Projector-Based Separation of Boundary Response and Mass in Short-Range Force EFTs" (arXiv: [XXXX.XXXXX], https://zenodo.org/records/18835377).
 
 This repository contains a reference implementation of the synthetic benchmark used in the paper: "Projector-Based Separation of Boundary Response and Mass in Short-Range Force EFTs" using a spectral forward model (mode-sum for the thermal free energy) and a regression-stencil projector that compresses a finite scan window into a robust scalar statistic for inference.
 
